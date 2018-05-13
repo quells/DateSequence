@@ -1,0 +1,6 @@
+framework module DateSequence {
+  umbrella header "DateSequence-umbrella.h"
+
+  export *
+  module * { export * }
+}

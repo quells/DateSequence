@@ -1,0 +1,6 @@
+framework module Pods_DateSequence_Tests {
+  umbrella header "Pods-DateSequence_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

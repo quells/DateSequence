@@ -1,0 +1,27 @@
+PODS:
+  - DateSequence (0.1.0)
+  - Nimble (7.0.3)
+  - Quick (1.2.0)
+
+DEPENDENCIES:
+  - DateSequence (from `../`)
+  - Nimble (~> 7.0.2)
+  - Quick (~> 1.2.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Nimble
+    - Quick
+
+EXTERNAL SOURCES:
+  DateSequence:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DateSequence: 13a6c4716f62b35ff379d115442b3eb7b8181eb6
+  Nimble: 7f5a9c447a33002645a071bddafbfb24ea70e0ac
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+
+PODFILE CHECKSUM: 0903f265d7ea19100ff0dbbb7c7d5f884b717cb3
+
+COCOAPODS: 1.5.2

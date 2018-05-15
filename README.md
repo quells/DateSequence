@@ -1,6 +1,5 @@
 # DateSequence
 
-[![CI Status](https://img.shields.io/travis/quells/DateSequence.svg?style=flat)](https://travis-ci.org/quells/DateSequence)
 [![Version](https://img.shields.io/cocoapods/v/DateSequence.svg?style=flat)](https://cocoapods.org/pods/DateSequence)
 [![License](https://img.shields.io/cocoapods/l/DateSequence.svg?style=flat)](https://cocoapods.org/pods/DateSequence)
 [![Platform](https://img.shields.io/cocoapods/p/DateSequence.svg?style=flat)](https://cocoapods.org/pods/DateSequence)

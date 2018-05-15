@@ -35,7 +35,7 @@ public class DateSequence: Sequence, IteratorProtocol {
     private let interval: Int
     private let intervalUnits: Calendar.Component
     
-    private static var calendar: Calendar {
+    public static var calendar: Calendar {
         get {
             var cal = Calendar(identifier: .gregorian)
             cal.timeZone = TimeZone(abbreviation: "UTC")!
